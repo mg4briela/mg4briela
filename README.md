@@ -1,4 +1,4 @@
-## Oii! Me chamo Gabriela 😸
+## Oii! Seja bem vind@! 😸
 <!-- stats -->
 <div align="left">
   
