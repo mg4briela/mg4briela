@@ -1,6 +1,6 @@
 ## Oii! Me chamo Gabriela 😸
 <!-- stats -->
-<div align="center">
+<div align="left">
   
 <a href="https://github.com/mg4briela/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=mg4briela&hide=stars,issues&theme=dark&show&rank_icon=github" />
@@ -13,7 +13,7 @@
 
 <!-- apps -->
 
-<div align="center">
+<div align="left">
   
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -27,7 +27,7 @@
 
 <!-- badge -->
 
-<div align="center">
+<div align="left">
   
   <br> ![Static Badge](https://img.shields.io/badge/built_with-swag-darkolivegreen)
   
@@ -35,17 +35,18 @@
 
 <!-- gif -->
 
-<div align="center">
+<div align="left">
   
   <img height="100" width="100" src="https://i.imgur.com/FtKJLGg.gif" />
   
 </div>
 
-<!-- cobrinha -->
+<!-- cobrinha 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mg4briela/mg4briela/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mg4briela/mg4briela/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mg4briela/mg4briela/output/github-contribution-grid-snake.svg">
 </picture>
-
+ 
+ -->
