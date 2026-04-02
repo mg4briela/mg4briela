@@ -2,7 +2,7 @@
 <!-- stats -->
 <div align="left">
   
-<a href="https://github.com/mg4briela/github-readme-stats">
+<!-- <a href="https://github.com/mg4briela/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=mg4briela&hide=stars,issues&theme=dark&show&rank_icon=github" />
 </a>
 <a href="https://github.com/mg4briela/convoychat">
@@ -10,7 +10,7 @@
 </a>
   
 </div>
-
+-->
 <!-- apps -->
 
 <div align="left">
